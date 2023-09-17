@@ -1,2 +1,2 @@
 # SQL_MUSIC_STORE_ANALYSIS_PROJECT
-This is a SQL end-to-end project.
+This is a simple end-to-end SQL project to analyze online music store data.
